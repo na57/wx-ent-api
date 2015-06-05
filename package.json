@@ -1,0 +1,26 @@
+{
+  "name": "wx-ent-api",
+  "version": "1.0.1",
+  "description": "微信企业号API对象。",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagucc/wx-ent-api.git"
+  },
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagucc/wx-ent-api/issues"
+  },
+  "homepage": "https://github.com/nagucc/wx-ent-api",
+  "devDependencies": {
+    "mongodb": "^2.0.33",
+    "should": "^6.0.3"
+  },
+  "dependencies": {
+    "wechat-enterprise-api": "0.0.8"
+  }
+}
